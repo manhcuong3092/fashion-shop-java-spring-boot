@@ -60,7 +60,6 @@
                     	<a href="/logout" class="login-panel"><i class="fa fa-user"></i>Đăng xuất</a>
                     <% } %>	
                     <div class="top-social">
-                    	<a href="${ base }/admin">Admin</a>
                         <a href="#"><i class="ti-facebook"></i></a>
                         <a href="#"><i class="ti-twitter-alt"></i></a>
                         <a href="#"><i class="ti-linkedin"></i></a>
